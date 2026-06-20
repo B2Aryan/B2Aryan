@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/B.Tech-CSE(AI)-6A0DAD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/University%20of%20Lucknow-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hackathon-Winner-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software%20Engineering-5D3FD3?style=for-the-badge"/>
 </p>
 <p align="center">
