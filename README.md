@@ -300,23 +300,11 @@ Contribution Activity
 
 ⸻
 
-Contribution Snake
+## Contribution Snake
 
-# Create in:
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-After creating the workflow:
-
-![Snake animation](https://raw.githubusercontent.com/B2Aryan/B2Aryan/output/github-contribution-grid-snake-dark.svg)
-
-⸻
+<p align="center">
+  <img src="https://raw.githubusercontent.com/B2Aryan/B2Aryan/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 Current Focus
 
