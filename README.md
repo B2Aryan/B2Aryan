@@ -63,69 +63,137 @@ Currently strengthening my foundations in **Java, DSA, backend engineering, and 
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/B2Aryan/B2Aryan/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/B2Aryan/B2Aryan/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/B2Aryan/B2Aryan/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+---
+
 # 🚀 Featured Projects
 
-### 🚀 ResumePilot — AI Resume Analyzer
-
-AI-powered resume analysis platform for ATS-style scoring, resume optimization, job matching, and AI recommendations.
-
-**Tech:** React · TypeScript · AI · Resume Parsing
-
-[Repository](https://github.com/B2Aryan/Resume_Analyzer_Project)
+<p align="center">
+  <i>Selected projects where I turn ideas into working software.</i>
+</p>
 
 ---
 
-### 📝 FormSahay — Government Form Assistant
+<h3><font color="#A970FF">🚀 ResumePilot — AI Resume Analyzer</font></h3>
 
-AI-assisted platform designed to simplify complex government forms through OCR, intelligent guidance, eligibility assistance, and multilingual support.
+<p>
+  An <b>AI-powered resume analysis platform</b> that helps job seekers evaluate ATS compatibility, improve their resumes, and identify better job matches.
+</p>
 
-**Tech:** React · OCR · AI
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Resume%20Parsing-6A0DAD?style=flat-square" />
+</p>
 
-[Repository](https://github.com/B2Aryan/FormSahay_Portal)
+**Highlights:** ATS Scoring · Resume Analysis · Job Matching · AI Recommendations
+
+<a href="https://github.com/B2Aryan/Resume_Analyzer_Project">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-### 💼 K A Gupta & Associates
+<h3><font color="#58A6FF">🔵 FormSahay — Government Form Assistant</font></h3>
 
-Production website developed and deployed for a Chartered Accountant firm.
+<p>
+  An <b>AI-assisted platform</b> that simplifies complex government forms through OCR, intelligent guidance, eligibility assistance, and multilingual support.
+</p>
 
-**Tech:** React · TypeScript · MongoDB
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/OCR-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Accessibility-6A0DAD?style=flat-square" />
+</p>
 
-**Features:** Enquiry workflows · Appointment handling · Resend · SEO · Analytics
+**Highlights:** OCR Processing · Form Guidance · Eligibility Assistance · Multilingual Support
 
-[Live Website](https://kaguptaassociates.vercel.app/)
+<a href="https://github.com/B2Aryan/FormSahay_Portal">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-### 🌆 Symbiotic City 2070
+<h3><font color="#7EE787">💼 K A Gupta & Associates</font></h3>
 
-Futuristic smart-city visualization developed for the Copilot Jam Hackathon.
+<p>
+  A <b>production client website</b> developed for a Chartered Accountant firm, focused on lead generation, enquiries, appointments, and discoverability.
+</p>
 
-**Tech:** HTML · CSS · JavaScript
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square" />
+</p>
+
+**Highlights:** Enquiry Workflows · Appointments · Resend Integration · SEO · Analytics
+
+<a href="https://kaguptaassociates.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20WEBSITE-5D3FD3?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
+
+<h3><font color="#FFB86C">🌆 Symbiotic City 2070</font></h3>
+
+<p>
+  A <b>futuristic smart-city visualization</b> created for the Copilot Jam Hackathon, exploring interactive urban infrastructure and future-city concepts.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**Highlights:** Interactive Visualization · Smart City Concepts · Futuristic UI
 
 🏆 **Copilot Jam Hackathon — Winner**
 
-[Live Demo](https://symbiotic-city-model-2070-1w7x.vercel.app/)
+<a href="https://symbiotic-city-model-2070-1w7x.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
-### 💳 Razorpay Clone
+<h3><font color="#FF6B6B">💳 Razorpay Clone</font></h3>
 
-Responsive frontend recreation built to strengthen UI architecture and responsive design skills.
+<p>
+  A <b>responsive frontend recreation</b> built to strengthen UI architecture, responsive layouts, and modern frontend development.
+</p>
 
-**Tech:** HTML · CSS · Tailwind CSS
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
 
-[Repository](https://github.com/B2Aryan/Razorpay-Clone)
+**Highlights:** Responsive UI · Modern Design · Tailwind CSS · Cross-device Layout
 
----
-
-# 🏆 Achievements
-
-- 🥇 **Copilot Jam Hackathon Winner** — Public Opinion Category
-- 💼 **Production Client Project** — Delivered website for a CA firm
-- 🤖 **AI Product Builder** — ResumePilot & FormSahay
-- 🌐 **Full Stack Developer** — Multiple end-to-end applications
-
+<a href="https://github.com/B2Aryan/Razorpay-Clone">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ---
 
 # 📜 Certifications
