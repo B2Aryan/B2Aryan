@@ -1,352 +1,289 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,50:6A0DAD,100:8A2BE2&text=Aryan%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;AI+Product+Builder;Java+%7C+React+%7C+TypeScript;Building+ResumePilot+and+FormSahay"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/B.Tech-CSE(AI)-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/University%20of%20Lucknow-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-5D3FD3?style=for-the-badge"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Lucknow-India-6A0DAD?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</p>
-<p align="center">
-<a href="mailto:aryan639244@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/b2aryan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/B2Aryan">
-<img src="https://img.shields.io/badge/GitHub-Follow-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=B2Aryan&style=for-the-badge&color=6A0DAD"/>
-<img src="https://img.shields.io/github/followers/B2Aryan?style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/B2Aryan?style=for-the-badge&color=4B0082"/>
-</p>
-</div>
-
-⸻
-
-About Me
-
-Name: Aryan Gupta
-Role: Software Engineer
-Location: Lucknow, India
-Education: B.Tech CSE (AI)
-University: University of Lucknow
-Focus:
-  - Full Stack Development
-  - Software Engineering
-  - AI Powered Products
-  - Product Engineering
-  - Open Source
-Current Goal:
-  - Become a Strong Software Engineer
-  - Build Real World Products
-  - Crack Top Tech Internships
-
-I am a Software Engineer focused on building scalable applications, AI-powered tools, and production-ready products. My work spans Full Stack Development, SaaS Platforms, Automation Systems, and Modern Web Technologies.
-
-Currently building products that solve practical problems while strengthening my foundations in Software Engineering, DSA, System Design, and Backend Development.
-
-Open To
-
-* Software Engineering Internships
-* Full Stack Development Opportunities
-* Open Source Contributions
-* Product Engineering Teams
-* Hackathons
-
-⸻
-
-Tech Stack
-
-Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
+  <img src="./assets/profile-banner.gif" width="100%" alt="B2Aryan animated developer banner"/>
 </p>
 
-Frontend
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;AI+Product+Builder;Java+%7C+React+%7C+TypeScript;Building+ResumePilot+%26+FormSahay" />
 </p>
 
-Backend & Databases
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/University%20of%20Lucknow-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software%20Development-5D3FD3?style=for-the-badge"/>
 </p>
 
-Cloud, DevOps & Tooling
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode"/>
+  <img src="https://img.shields.io/badge/Lucknow-India-6A0DAD?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-⸻
+<p align="center">
+  <a href="mailto:aryan639244@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/b2aryan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/B2Aryan">
+    <img src="https://img.shields.io/badge/GitHub-Follow-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-AI / ML Expertise
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=B2Aryan&style=for-the-badge&color=6A0DAD"/>
+  <img src="https://img.shields.io/github/followers/B2Aryan?style=for-the-badge&color=8A2BE2"/>
+  <img src="https://img.shields.io/github/stars/B2Aryan?style=for-the-badge&color=4B0082"/>
+</p>
 
-Domain	Proficiency	Details
-AI Product Development	Advanced	AI-powered SaaS Platforms
-ATS Systems	Advanced	Resume Analysis & Scoring
-OCR Processing	Intermediate	Document Intelligence
-Prompt Engineering	Advanced	LLM Optimization
-Automation Workflows	Intermediate	Productivity Systems
-Data Processing	Intermediate	Parsing & Analysis Pipelines
+---
 
-⸻
+## 👨‍💻 About Me
 
-Featured Projects
+I'm a B.Tech CSE (AI) student focused on building practical software products.
+
+I enjoy turning ideas into working applications — from AI-powered tools and full-stack platforms to automation and developer-focused systems.
+
+### Currently Focused On
+
+- ☕ Java & Data Structures
+- ⚛️ React & TypeScript
+- 🧠 AI-powered applications
+- ⚙️ Backend Engineering
+- 🏗️ Software Architecture & System Design
+
+### What I'm Looking For
+
+- Software Engineering Internships
+- Full Stack Development Opportunities
+- Open Source Contributions
+- Product Engineering Teams
+- Hackathons & Developer Communities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <details>
-<summary><b>ResumePilot — AI Resume Analyzer Platform</b></summary>
+<summary><b>🚀 ResumePilot — AI Resume Analyzer</b></summary>
 
-Project Overview
+<br>
 
-ResumePilot is an ATS Resume Analysis Platform built to help job seekers understand resume quality, ATS compatibility, and hiring readiness.
+An AI-powered resume analysis platform designed to help job seekers understand resume quality, ATS compatibility, and areas for improvement.
 
-Category	Details
-Stack	React, TypeScript, Firebase
-Scale	SaaS Platform
-Performance	Fast Analysis Engine
-Security	Authentication Enabled
-Impact	Improves Resume Quality
-Repository	https://github.com/B2Aryan/Resume_Analyzer_Project
+### Features
 
-Key Features
+- ATS-style resume scoring
+- Resume parsing
+- Resume optimization suggestions
+- Job matching insights
+- Authentication
+- Analysis dashboard
 
-* ATS Score Analysis
-* Resume Parsing
-* Resume Optimization Suggestions
-* Job Matching Insights
-* User Authentication
-* Analytics Dashboard
+**Focus:** AI Products · Resume Intelligence · Full Stack Development
 
-</details>
-<details>
-<summary><b>FormSahay — Government Form Assistant</b></summary>
-
-Project Overview
-
-FormSahay simplifies complex government forms through intelligent assistance, OCR processing, and user-friendly guidance.
-
-Category	Details
-Stack	React, Firebase, OCR
-Scale	Public Utility Platform
-Performance	Optimized Processing
-Security	Secure Data Handling
-Impact	Improves Accessibility
-Repository	https://github.com/B2Aryan/FormSahay_Portal
-
-Key Features
-
-* OCR Processing
-* Form Guidance
-* Eligibility Assistance
-* Multilingual Support
-* Smart Document Analysis
-
-</details>
-<details>
-<summary><b>K A Gupta & Associates</b></summary>
-
-Project Overview
-
-Production-grade client website developed and deployed for a Chartered Accountant firm.
-
-Category	Details
-Stack	React, TypeScript, MongoDB
-Scale	Client Production System
-Performance	SEO Optimized
-Security	Protected Contact Workflows
-Impact	Lead Generation Platform
-Website	https://kaguptaassociates.vercel.app/
-
-Key Features
-
-* Appointment Handling
-* Enquiry Management
-* Resend API Integration
-* SEO Optimization
-* Google Analytics
-
-</details>
-<details>
-<summary><b>Symbiotic City 2070</b></summary>
-
-Project Overview
-
-Hackathon project focused on futuristic urban planning and smart city concepts.
-
-Category	Details
-Stack	HTML, CSS, JavaScript
-Scale	Interactive Visualization
-Performance	Responsive Design
-Security	Frontend Architecture
-Impact	Public Opinion Winner
-Demo	https://symbiotic-city-model-2070-1w7x.vercel.app/
-
-Key Features
-
-* Smart City Concepts
-* Urban Infrastructure Simulation
-* Interactive User Experience
-* Futuristic Design
-
-</details>
-<details>
-<summary><b>Razorpay Clone</b></summary>
-
-Project Overview
-
-Frontend implementation inspired by Razorpay focusing on responsive UI architecture.
-
-Category	Details
-Stack	HTML, CSS, Tailwind CSS
-Scale	Frontend Project
-Performance	Responsive Design
-Security	Static Application
-Impact	Frontend Skill Development
-Repository	https://github.com/B2Aryan/Razorpay-Clone
+🔗 **Repository:**  
+https://github.com/B2Aryan/Resume_Analyzer_Project
 
 </details>
 
-⸻
+<br>
 
-Experience
+<details>
+<summary><b>📝 FormSahay — Government Form Assistant</b></summary>
 
-Hackathon Winner — Copilot Jam
+<br>
 
-University Innovation Hackathon
+A smart assistant designed to make complex government forms easier to understand and complete.
 
-August 2024
+### Features
 
-Worked collaboratively on Symbiotic City, an interactive smart city simulation project.
+- OCR-based document processing
+- Form guidance
+- Eligibility assistance
+- Multilingual assistance
+- Smart document analysis
 
-Responsibilities
+**Focus:** AI · OCR · Accessibility · Public Utility
 
-* Frontend Development
-* Team Collaboration
-* Product Ideation
-* UI Engineering
-* Project Demonstration
+🔗 **Repository:**  
+https://github.com/B2Aryan/FormSahay_Portal
 
-Skills
+</details>
 
-JavaScript HTML CSS Problem Solving Innovation
+<br>
 
-⸻
+<details>
+<summary><b>💼 K A Gupta & Associates</b></summary>
 
-Achievements
+<br>
 
-Recognition	Details
-Copilot Jam Winner	Public Opinion Category Winner
-Production Client Project	Successfully Delivered Client Website
-AI Product Builder	Building ResumePilot & FormSahay
-Full Stack Developer	Multiple End-to-End Applications
-Continuous Learner	Active Software Engineering Journey
+A production website developed and deployed for a Chartered Accountant firm.
 
-⸻
+### Features
 
-Certifications
+- Enquiry workflows
+- Appointment handling
+- Resend email integration
+- SEO optimization
+- Google Analytics
+- Responsive design
 
-AWS
+**Focus:** Client Project · Full Stack Development · Production Deployment
 
-<img src="https://img.shields.io/badge/AWS-Prompt%20Engineering%20for%20Everyone-FF9900?style=for-the-badge&logo=amazonaws"/>
+🌐 **Live Website:**  
+https://kaguptaassociates.vercel.app/
 
-⸻
+</details>
 
-Coding Profiles
+<br>
+
+<details>
+<summary><b>🌆 Symbiotic City 2070</b></summary>
+
+<br>
+
+A futuristic smart-city visualization project created for the Copilot Jam Hackathon.
+
+### Highlights
+
+- Interactive city visualization
+- Smart infrastructure concepts
+- Responsive interface
+- Futuristic UI
+- Interactive user experience
+
+🏆 **Achievement:** Copilot Jam Hackathon Winner
+
+🌐 **Live Demo:**  
+https://symbiotic-city-model-2070-1w7x.vercel.app/
+
+</details>
+
+<br>
+
+<details>
+<summary><b>💳 Razorpay Clone</b></summary>
+
+<br>
+
+A responsive frontend recreation inspired by Razorpay, built to strengthen UI architecture and responsive design skills.
+
+### Highlights
+
+- Responsive layout
+- Modern UI
+- Tailwind CSS
+- Component-based design
+
+🔗 **Repository:**  
+https://github.com/B2Aryan/Razorpay-Clone
+
+</details>
+
+---
+
+## 🏆 Experience & Achievements
+
+### 🥇 Copilot Jam Hackathon Winner
+
+**University Innovation Hackathon**
+
+Worked collaboratively on **Symbiotic City 2070**, an interactive smart-city visualization project.
+
+**Contributions**
+
+- Frontend Development
+- UI Engineering
+- Product Ideation
+- Team Collaboration
+- Project Demonstration
+
+### Other Highlights
+
+- 🥇 Copilot Jam Winner — Public Opinion Category
+- 💼 Production Client Website Delivered
+- 🤖 Building AI-powered products
+- 🌐 Multiple end-to-end web applications
+- 📚 Continuous Software Engineering Learning
+
+---
+
+## 📜 Certifications
 
 <p align="center">
-<a href="https://leetcode.com/u/yfMLrbYdjo/">
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/AWS-Prompt%20Engineering%20for%20Everyone-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-⸻
+---
 
-GitHub Analytics
+## 💻 Coding Profiles
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=B2Aryan&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=B2Aryan&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B2Aryan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://leetcode.com/u/yfMLrbYdjo/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
-⸻
+---
 
-GitHub Trophies
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=B2Aryan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=B2Aryan&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=B2Aryan&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
-
-⸻
-
-Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=B2Aryan&theme=tokyo-night"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=B2Aryan&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
-⸻
+---
 
-## Contribution Snake
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/B2Aryan/B2Aryan/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-Current Focus
-
-Learning:
-  - Advanced Java
-  - Data Structures & Algorithms
-  - Backend Engineering
-  - System Design
-Building:
-  - ResumePilot
-  - FormSahay
-Exploring:
-  - AI Agents
-  - OCR Systems
-  - Firebase Ecosystem
-Open To:
-  - Software Engineering Internships
-  - Open Source Contributions
-  - Hackathons
-  - Product Development
-
-⸻
-
-Connect
-
-<p align="center">
-<a href="mailto:aryan639244@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/b2aryan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/B2Aryan">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-⸻
-
-<div align="center">
-
-“Building software that solves real problems through engineering, creativity, and continuous learning.”
-
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,50:6A0DAD,100:8A2BE2"/>
+```text
+Learning     → Advanced Java · DSA · Backend Engineering
+Building     → ResumePilot · FormSahay
+Exploring    → AI Agents · OCR · System Design
+Improving    → Software Engineering Fundamentals
+Goal         → Become a Strong Software Engineer
