@@ -45,22 +45,41 @@ Currently strengthening my foundations in **Java, DSA, backend engineering, and 
 
 # 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Languages" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend" />
-</p>
+### 💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" alt="Backend and databases" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" width="220"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" alt="Tools and platforms" />
-</p>
+</td>
 
+<td align="center" width="25%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" width="120"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend & DB
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb" width="120"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" width="180"/>
+
+</td>
+</tr>
+</table>
 ---
 
 # 🐍 Contribution Snake
