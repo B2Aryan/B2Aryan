@@ -1,4 +1,4 @@
-B2Aryan — GitHub Profile
+<img width="1400" height="280" alt="profile-banner" src="https://github.com/user-attachments/assets/ccdf4d12-0a57-459e-98dc-61402bcda368" />
 
 <p align="center">
   <img src="./assets/profile-banner.gif" width="100%" alt="B2Aryan animated developer banner"/>
