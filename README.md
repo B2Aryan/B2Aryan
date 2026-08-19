@@ -276,6 +276,8 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
 
 ---
 
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -293,13 +295,13 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
 <p align="center">
   <img
     src="./profile/stats.svg"
-    width="49%"
     alt="GitHub Statistics"
+    width="49%"
   />
   <img
     src="./profile/top-langs.svg"
-    width="49%"
     alt="Top Languages"
+    width="49%"
   />
 </p>
 
@@ -314,7 +316,6 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
     width="100%"
   />
 </p>
-
 ---
 
 # 🎯 Current Focus
