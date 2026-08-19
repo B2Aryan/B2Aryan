@@ -287,7 +287,6 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
     width="100%"
   />
 </p>
-
 ---
 
 # 📊 GitHub Statistics
