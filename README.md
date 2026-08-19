@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lucknow-India-6A0DAD?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-
-<p align="center">
   <a href="mailto:aryan639244@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -41,69 +37,25 @@
 
 # 👨‍💻 About Me
 
-I'm a B.Tech CSE (AI) student focused on building practical software products and strengthening my software engineering fundamentals.
+I'm a B.Tech CSE (AI) student and software developer focused on building practical applications, AI-powered products, and full-stack systems.
 
-I enjoy turning ideas into working applications — from AI-powered tools and full-stack platforms to automation and developer-focused systems.
-
-### What I Work With
-
-**Languages** → Java · JavaScript · TypeScript · HTML · CSS
-
-**Frontend** → React · Tailwind CSS
-
-**Backend** → Node.js
-
-**Database** → MongoDB
-
-**Core** → DSA · OOP · Software Engineering
-
-**Interests** → AI Products · Automation · System Design
-
-### Currently Focused On
-
-- ☕ Advanced Java
-- 🧩 Data Structures & Algorithms
-- ⚙️ Backend Engineering
-- ⚛️ React & TypeScript
-- 🧠 AI-powered applications
-- 🏗️ System Design fundamentals
-
----
-
-# 🎓 Education
-
-### Bachelor of Technology — Computer Science & Engineering (AI)
-
-**University of Lucknow**  
-Lucknow, India
-
-**Focus Areas**
-
-Software Engineering · Artificial Intelligence · Data Structures · Backend Development · Web Development
+Currently strengthening my foundations in **Java, DSA, backend engineering, and system design** while building products that solve real problems.
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Languages" />
 </p>
-
-### Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend" />
 </p>
 
-### Backend & Databases
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb" alt="Backend and databases" />
 </p>
-
-### Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" alt="Tools and platforms" />
@@ -113,134 +65,66 @@ Software Engineering · Artificial Intelligence · Data Structures · Backend De
 
 # 🚀 Featured Projects
 
-## 🚀 ResumePilot — AI Resume Analyzer
+### 🚀 ResumePilot — AI Resume Analyzer
 
-ResumePilot is an AI-powered resume analysis platform designed to help job seekers understand resume quality, ATS compatibility, and areas for improvement.
+AI-powered resume analysis platform for ATS-style scoring, resume optimization, job matching, and AI recommendations.
 
 **Tech:** React · TypeScript · AI · Resume Parsing
 
-### Features
-
-- 🎯 ATS-style resume scoring
-- 📄 Resume parsing
-- ✨ Resume optimization suggestions
-- 🎯 Job matching insights
-- 🔐 User authentication
-- 📊 Analysis dashboard
-- 🤖 AI-powered recommendations
-
-**Repository:**  
-https://github.com/B2Aryan/Resume_Analyzer_Project
+[Repository](https://github.com/B2Aryan/Resume_Analyzer_Project)
 
 ---
 
-## 📝 FormSahay — Government Form Assistant
+### 📝 FormSahay — Government Form Assistant
 
-FormSahay is a smart assistant designed to make complex government forms easier to understand and complete.
+AI-assisted platform designed to simplify complex government forms through OCR, intelligent guidance, eligibility assistance, and multilingual support.
 
 **Tech:** React · OCR · AI
 
-### Features
-
-- 🔎 OCR-based document processing
-- 📝 Government form guidance
-- ✅ Eligibility assistance
-- 🌐 Multilingual assistance
-- 📑 Smart document analysis
-- ♿ Accessibility-focused interface
-
-**Repository:**  
-https://github.com/B2Aryan/FormSahay_Portal
+[Repository](https://github.com/B2Aryan/FormSahay_Portal)
 
 ---
 
-## 💼 K A Gupta & Associates
+### 💼 K A Gupta & Associates
 
-A production website developed and deployed for a Chartered Accountant firm.
+Production website developed and deployed for a Chartered Accountant firm.
 
 **Tech:** React · TypeScript · MongoDB
 
-### Features
+**Features:** Enquiry workflows · Appointment handling · Resend · SEO · Analytics
 
-- 📩 Enquiry workflows
-- 📅 Appointment handling
-- ✉️ Resend email integration
-- 🔎 SEO optimization
-- 📈 Google Analytics
-- 📱 Responsive design
-- 🚀 Production deployment
-
-**Live Website:**  
-https://kaguptaassociates.vercel.app/
+[Live Website](https://kaguptaassociates.vercel.app/)
 
 ---
 
-## 🌆 Symbiotic City 2070
+### 🌆 Symbiotic City 2070
 
-A futuristic smart-city visualization project developed for the Copilot Jam Hackathon.
+Futuristic smart-city visualization developed for the Copilot Jam Hackathon.
 
 **Tech:** HTML · CSS · JavaScript
 
-### Highlights
-
-- 🏙️ Smart-city concepts
-- 🌐 Interactive visualization
-- 🏗️ Futuristic infrastructure
-- 📱 Responsive interface
-- 🎨 Interactive user experience
-
 🏆 **Copilot Jam Hackathon — Winner**
 
-**Live Demo:**  
-https://symbiotic-city-model-2070-1w7x.vercel.app/
+[Live Demo](https://symbiotic-city-model-2070-1w7x.vercel.app/)
 
 ---
 
-## 💳 Razorpay Clone
+### 💳 Razorpay Clone
 
-A responsive frontend recreation inspired by Razorpay, built to strengthen UI architecture and responsive design skills.
+Responsive frontend recreation built to strengthen UI architecture and responsive design skills.
 
 **Tech:** HTML · CSS · Tailwind CSS
 
-### Highlights
-
-- 📱 Responsive design
-- 🎨 Modern UI
-- 🧩 Component-based structure
-- ⚡ Tailwind CSS
-- 🖥️ Cross-device layout
-
-**Repository:**  
-https://github.com/B2Aryan/Razorpay-Clone
+[Repository](https://github.com/B2Aryan/Razorpay-Clone)
 
 ---
 
-# 🏆 Experience & Achievements
+# 🏆 Achievements
 
-## 🥇 Copilot Jam Hackathon Winner
-
-**University of Lucknow — Innovation Hackathon**
-
-Worked collaboratively on Symbiotic City 2070, an interactive smart-city visualization project.
-
-### Contributions
-
-- Frontend Development
-- UI Engineering
-- Product Ideation
-- Team Collaboration
-- Project Demonstration
-- User Experience Design
-
-### Other Highlights
-
-| Achievement | Details |
-|---|---|
-| 🥇 Hackathon Winner | Copilot Jam — Public Opinion Category |
-| 💼 Client Project | Production website delivered for a CA firm |
-| 🤖 AI Product Builder | Building ResumePilot & FormSahay |
-| 🌐 Full Stack Development | Multiple end-to-end applications |
-| 📚 Continuous Learning | Java, DSA, Backend & System Design |
+- 🥇 **Copilot Jam Hackathon Winner** — Public Opinion Category
+- 💼 **Production Client Project** — Delivered website for a CA firm
+- 🤖 **AI Product Builder** — ResumePilot & FormSahay
+- 🌐 **Full Stack Developer** — Multiple end-to-end applications
 
 ---
 
@@ -249,36 +133,15 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Prompt%20Engineering%20for%20Everyone-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Gen%20AI%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Anthropic-Claude%20101-191919?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20101-191919?style=for-the-badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Google-Vertex%20AI%20Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6A0DAD?style=for-the-badge" />
 </p>
 
 ---
 
-# 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/u/yfMLrbYdjo/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/B2Aryan">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
----
-
-<h2>🏆 GitHub Trophies</h2>
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img
@@ -287,6 +150,7 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
     width="100%"
   />
 </p>
+
 ---
 
 # 📊 GitHub Statistics
@@ -306,7 +170,7 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
 
 ---
 
-# 📈 GitHub Contribution Activity
+# 📈 GitHub Activity
 
 <p align="center">
   <img
@@ -315,43 +179,6 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
     width="100%"
   />
 </p>
----
-
-# 🎯 Current Focus
-
-<table>
-<tr>
-<td><b>📚 Learning</b></td>
-<td>Advanced Java · DSA · Backend Engineering</td>
-</tr>
-<tr>
-<td><b>🚀 Building</b></td>
-<td>ResumePilot · FormSahay</td>
-</tr>
-<tr>
-<td><b>🧠 Exploring</b></td>
-<td>AI Agents · OCR · System Design</td>
-</tr>
-<tr>
-<td><b>⚙️ Improving</b></td>
-<td>Software Engineering Fundamentals</td>
-</tr>
-<tr>
-<td><b>🎯 Goal</b></td>
-<td>Become a strong Software Engineer</td>
-</tr>
-</table>
-
----
-
-# 🌱 Open To
-
-- 💻 Software Engineering Internships
-- 🌐 Full Stack Development
-- 🤝 Open Source Contributions
-- 🏆 Hackathons
-- 🚀 Product Development
-- 🤖 AI Product Engineering
 
 ---
 
