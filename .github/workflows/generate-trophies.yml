@@ -2,8 +2,6 @@ name: Generate GitHub Trophies
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 0"
 
 permissions:
   contents: write
@@ -13,31 +11,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophy SVG
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Generate trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: "username=B2Aryan&theme=tokyonight&column=6&margin-w=12&margin-h=12&no-frame=true&no-bg=true"
+          options: 'username=${{ github.repository_owner }}&theme=tokyonight&column=6&margin-w=12&margin-h=12&no-frame=true&no-bg=true'
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Verify trophy
         run: |
           echo "Checking generated trophy..."
-          test -f profile/trophy.svg
-          echo "File exists:"
           ls -lh profile/trophy.svg
-          echo "File type:"
-          file profile/trophy.svg
-          echo "First 100 characters:"
-          head -c 100 profile/trophy.svg
+          echo "SVG file:"
+          head -c 200 profile/trophy.svg
+          echo
 
-      - name: Commit Trophy
+      - name: Commit trophy to repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/trophy.svg
-          git diff --cached --quiet || git commit -m "Update GitHub trophies"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to trophy.svg"
+          else
+            git commit -m "Update GitHub trophies"
+            git push
+          fi
