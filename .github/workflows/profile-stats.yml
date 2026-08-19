@@ -1,48 +1,58 @@
-name: Update GitHub Profile
+name: Update Profile Stats
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-profile:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
-      - name: Generate GitHub Trophies
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: 'username=B2Aryan&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=12&margin-h=12'
-          path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create profile directory
+        run: mkdir -p profile
 
-      - name: Generate GitHub Stats
+      - name: Generate GitHub statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: 'username=B2Aryan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true'
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Top Languages
+      - name: Generate top languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: 'username=B2Aryan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8'
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub trophies
+        run: |
+          curl -L \
+            "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12" \
+            -o profile/trophy.svg
+
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          ls -lh profile/
 
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/*.svg
-          git diff --cached --quiet || git commit -m "Update GitHub profile"
+
+          git diff --cached --quiet || git commit -m "Update GitHub profile stats"
+
           git push
