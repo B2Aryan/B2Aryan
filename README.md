@@ -278,7 +278,7 @@ Worked collaboratively on Symbiotic City 2070, an interactive smart-city visuali
 
 ---
 
-# 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img
