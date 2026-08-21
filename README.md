@@ -228,12 +228,12 @@ Currently strengthening my foundations in **Java, DSA, backend engineering, and 
 
 ---
 
-# 🏆 GitHub Trophies
+<h2>🔥 GitHub Daily Streak</h2>
 
 <p align="center">
   <img
-    src="./profile/trophy.svg"
-    alt="GitHub Trophies"
+    src="https://streak-stats.demolab.com/?user=B2Aryan&theme=dark&hide_border=true&background=0D1117&ring=A970FF&fire=FF6B35&currStreakLabel=A970FF&sideLabels=A970FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&mode=daily"
+    alt="GitHub Daily Streak"
     width="100%"
   />
 </p>
