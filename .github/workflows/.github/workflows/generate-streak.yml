@@ -1,0 +1,36 @@
+name: Generate GitHub Streak
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate streak SVG
+        run: |
+          mkdir -p profile
+
+          curl -L \
+            "https://streak-stats.demolab.com/?user=B2Aryan&theme=dark&hide_border=true&background=0D1117&ring=A970FF&fire=FF6B35&currStreakLabel=A970FF&sideLabels=A970FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" \
+            -o profile/streak.svg
+
+      - name: Commit streak
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add profile/streak.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub streak"
+
+          git push
