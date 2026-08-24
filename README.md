@@ -1,9 +1,11 @@
-<p align="center">
-  <img width="1400" height="280" alt="B2Aryan Profile Banner" src="https://github.com/user-attachments/assets/f2fd58fd-97da-4e93-a4d8-48fe93b7840e" />
-</p>
+<div align="center">
+
+<img src="assets/portrait.svg" width="300" alt="Aryan, rendered as a dot matrix">
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;AI+Product+Builder;Java+%7C+React+%7C+TypeScript;Building+ResumePilot+%26+FormSahay" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=900&lines=Aryan+Gupta;Software+Developer;Full+Stack+Developer;AI+Product+Builder;Java+%7C+React+%7C+TypeScript;Building+ResumePilot+%26+FormSahay" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -19,6 +21,9 @@
   <a href="https://www.linkedin.com/in/b2aryan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://my-portfolio-eta-mauve-ftploocprq.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   <a href="https://github.com/B2Aryan">
     <img src="https://img.shields.io/badge/GitHub-Follow-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
