@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="assets/portrait.svg" width="300" alt="Aryan, rendered as a dot matrix">
 
 </div>
