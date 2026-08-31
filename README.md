@@ -262,18 +262,6 @@ Currently strengthening my foundations in **Java, DSA, backend engineering, and 
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=B2Aryan&bg_color=0d1117&color=A970FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
